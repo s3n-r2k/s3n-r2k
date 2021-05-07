@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3n-r2k&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3n-r2k&layout=compact&theme=calm&exclude_repo=Jule-Banko-GM,Jule-Banko-plade,Julekalender)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3n-r2k&show_icons=true&theme=calm&count_private=true)
 
 <!--
 **s3n-r2k/s3n-r2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
