@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3n-r2k&show_icons=true)
+
 <!--
 **s3n-r2k/s3n-r2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
