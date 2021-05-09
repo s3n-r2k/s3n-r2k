@@ -39,14 +39,19 @@ I am currently working on... This page🔥
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="huggingface" src="https://huggingface.co/front/assets/huggingface_logo.svg", height=50></a>
+    <a href="#"><img alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png", height=50></a>
+    <a href="#"><img alt="tensorflow" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg", height=50></a> 
 </p>
 
 ### 🗄️ Database and misc...
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="mongoDB" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mongodb/mongodb-original-wordmark.svg" height=50></a>
+  <a href="#"><img alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original-wordmark.svg" height=50></a>
 </p>
+
+
 
 ### Prefered software tools
 
@@ -55,7 +60,24 @@ I am currently working on... This page🔥
 </p>
 
 ## 🔥 My stats
+<details>
+    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=s3n-r2k)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+    
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
  <a href="https://github.com/s3n-r2k">
@@ -68,3 +90,8 @@ I am currently working on... This page🔥
     <img alt="My streak" src="https://github-readme-stats.vercel.app/api?username=s3n-r2k&show_icons=true&theme=calm&count_private=true&hide_border=true"/>
   </a>
 </p>
+
+</details>
+
+<!-- markdownlint-enable MD033 -->
+
