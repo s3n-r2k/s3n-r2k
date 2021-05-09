@@ -1,16 +1,17 @@
 
 <h1 align="center">
-  Welcome to my Github!
-  <img src="https://media.giphy.com/media/dLJ1RoTlq4fSBR0qTh/giphy.gif" width="35"/>
-</h1>
-
-<p align="center">
+  Hello there! <br>
+  <img src="https://media.giphy.com/media/lrsBLZHD5UzTNMxiG5/giphy.gif" height="55"/>
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20data%20scientist;Self-taught%20ML%20engineer;Mathematician%20by%20trade;Always%20aiming%20to%20learn&center=true&width=380&height=45"/>
 </p>
+</h1>
 
-I am currently working on... This page🔥
 
-## Ask me anything!
+I am a mathematician who have discovered the joy of machine learnig and data science!!
+
+
+## <img src="https://media.giphy.com/media/iIv51yJF2tC800OUZi/giphy.gif" height="55"/> Ask me anything!
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -21,41 +22,38 @@ I am currently working on... This page🔥
   <a href="mailto:simon.rask.langkilde@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
+I'm always up for helping, sharing my opinion or just talking about the crazy world!
 
 
 
-## 🛠️ My favorite tools
+## My toolbox
 
-### 👨‍💻 Programming languages
-
-<p>
+<p align="left">
+  <br>
     <a href="https://github.com/search?q=user%3As3n-r2k+is%3Arepo+language%3Apython"><img alt="Python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height=50></a>
     <a href="https://github.com/search?q=user%3As3n-r2k+is%3Arepo+language%3Adocker"><img alt="Docker" src="https://cdn.worldvectorlogo.com/logos/docker.svg" height=50></a>
     <a href="https://github.com/search?q=user%3As3n-r2k+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height=50></a>
     <a href="https://github.com/search?q=user%3As3n-r2k+is%3Arepo+language%3Ahtml"><img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" height=50></a>
     <a href="https://github.com/search?q=user%3As3n-r2k+is%3Arepo+language%3Acss"><img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" height=50></a>
+  <br>
 </p>
 
-### 🧰 Frameworks and libraries
-
 <p>
+  <br>
     <a href="#"><img alt="huggingface" src="https://huggingface.co/front/assets/huggingface_logo.svg", height=50></a>
     <a href="#"><img alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png", height=50></a>
-    <a href="#"><img alt="tensorflow" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg", height=50></a> 
+    <a href="#"><img alt="tensorflow" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg", height=50></a>
+  <br>
 </p>
 
-### 🗄️ Database and misc...
-
-<p>
+<p align="left">
+  <br>
     <a href="#"><img alt="mongoDB" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mongodb/mongodb-original-wordmark.svg" height=50></a>
   <a href="#"><img alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original-wordmark.svg" height=50></a>
+  <br>
 </p>
 
-
-
-### Prefered software tools
-
-<p>
+<p align="left">
     <a href="#"><img alt="Visual Studio code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=50></a>
 </p>
 
