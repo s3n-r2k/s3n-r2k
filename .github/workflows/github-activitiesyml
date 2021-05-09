@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: s3n-r2k/github-activity-readme@master
+      - uses: s3n-r2k/s3n-r2k@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
