@@ -64,7 +64,6 @@ I am currently working on... This page🔥
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 </details>
 
