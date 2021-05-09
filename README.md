@@ -3,9 +3,9 @@
   Welcome to my Github!
   <img src="https://media.giphy.com/media/dLJ1RoTlq4fSBR0qTh/giphy.gif" width="35"/>
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20data%20scientist;Self-taught%20ML%20engineer;
-  Mathematician%20by%20trade;Always%20aiming%20to%20learn&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20data%20scientist;Self-taught%20ML%20engineer;Mathematician%20by%20trade;Always%20aiming%20to%20learn&center=true&width=380&height=45"/>
 </p>
 
 I am currently working on... This page🔥
@@ -42,7 +42,7 @@ I am currently working on... This page🔥
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
-### 🗄️ Databes and
+### 🗄️ Database and misc...
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -57,13 +57,13 @@ I am currently working on... This page🔥
 ## 🔥 My stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="left">
+<p align="center">
  <a href="https://github.com/s3n-r2k">
     <img alt="My streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3n-r2k&layout=compact&theme=calm&exclude_repo=Jule-Banko-GM,Jule-Banko-plade,Julekalender&hide_border=true"/>
-  </a>
+  </a><br>
   <a href="https://github.com/s3n-r2k">
     <img alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3n-r2k&theme=calm&hide_border=true&count_private=true"/>
-  </a>
+  </a><br>
   <a href="https://github.com/s3n-r2k">
     <img alt="My streak" src="https://github-readme-stats.vercel.app/api?username=s3n-r2k&show_icons=true&theme=calm&count_private=true&hide_border=true"/>
   </a>
