@@ -63,6 +63,8 @@ I am currently working on... This page🔥
 <details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#18](https://github.com/danspeech/danspeech/issues/18) in [danspeech/danspeech](https://github.com/danspeech/danspeech)
+<!--END_SECTION:activity-->
 
 
 </details>
