@@ -19,7 +19,7 @@ I am a mathematician who have discovered the joy of machine learnig and data sci
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/>
   </a>
   <a href="https://www.linkedin.com/in/simonrask/" target="_blank">
-    <img src="https://img.shields.io/badge/-Simon Rask-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/simonrask/?target=_blank"/>
+    <img src="https://img.shields.io/badge/-Simon Rask-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/simonrask/"/>
   </a>
   <a href="mailto:simon.rask.langkilde@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
