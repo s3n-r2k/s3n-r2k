@@ -72,7 +72,7 @@ I'm always up for helping, sharing my opinion or just talking about the crazy wo
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=s3n-r2k)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=s3n-r2k&theme=nord&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </details>
 
