@@ -80,7 +80,7 @@ I'm always up for helping, sharing my opinion or just talking about the crazy wo
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
     
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<p align="left">
  <a href="https://github.com/s3n-r2k">
     <img alt="My streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3n-r2k&layout=compact&theme=calm&exclude_repo=Jule-Banko-GM,Jule-Banko-plade,Julekalender&hide_border=true"/>
   </a><br>
